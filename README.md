@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/@kxyol" target="blank"><img src="https://img.shields.io/twitter/follow/@kxyol?logo=twitter&style=for-the-badge" alt="@kxyol" /></a> </p>
 
-- 🔭 I’m currently working on **web developement**
+- 🔭 I’m currently working on **Web developement**
 
-- 🌱 I’m currently learning **data structures**
+- 🌱 I’m currently learning **Data structures**
 
-- 👯 I’m looking to collaborate on **several ing tasks**
+- 👯 I’m looking to collaborate on **Several ing tasks**
 
-- 🤝 I’m looking for help with **my studies for ingineering**
+- 🤝 I’m looking for help with **My Studies for Engineering**
 
-- 💬 Ask me about **gsap**
+- 💬 Ask me about **Gsap**
 
 - 📫 How to reach me **a.zhari14@hotmail.com**
 
